@@ -1,0 +1,9 @@
+[package]
+name = "voc"
+version = "0.1.0"
+authors = ["魔咔啦咔 <gdream@yeah.net>"]
+edition = "2018"
+
+
+[dependencies]
+rodio = "0.13.0"
